@@ -1,6 +1,6 @@
 ---
 name: 语言
-description: 作品的语言。
+description: chinese
 key: language
 abbr: l
 aliases:
