@@ -1,9 +1,9 @@
 ---
-name: 语言
-description: 作品的语言。
-key: language
+name:汉语
+description:<br>汉语，又称中文、华语、唐话，或被视为汉藏语系汉语族下之唯一一种语言，或被视为语族。
+key: chinese
 abbr: l
-aliases:
+aliases:Chinese
   - lang
 copyright: >
   除有特殊说明外，本文的简介文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
